@@ -71,7 +71,7 @@
 using namespace std;
 
 // Khai báo biến: n là số lượng, a là giá trị đọc vào, ans là kết quả
-ll n, a, ans = -99999999999999999;
+ll n, a, ans = -99999999999999999; //ans được lưu -99999999999999999 vì ban đầu nó sẽ là số âm lớn nhất
 
 int main() {
 	// Tối ưu tốc độ nhập xuất
