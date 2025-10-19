@@ -1,7 +1,3 @@
-Chắc chắn rồi. Xin lỗi vì đã vội vàng ở lần trước. Dưới đây là bài giải chi tiết cho bài toán "Trò chơi" theo đúng cấu trúc và yêu cầu của bạn.
-
----
-
 ## **Lời giải bài toán "Trò chơi"**
 
 #### **Ý tưởng 1: Dùng 2 vòng lặp (Brute-force)**
